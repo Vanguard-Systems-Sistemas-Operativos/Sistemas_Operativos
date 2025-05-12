@@ -1,0 +1,30 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de respaldo temporales
+*~
+*.bak
+*.swp
+*.tmp
+
+# Configuraciones de VS Code
+.vscode/
+
+# Archivos de log
+*.log
+
+# Salidas generadas
+output/
+logs/
+
+# Binarios o ejecutables generados
+*.out
+*.exe
+
+# Evitar scripts o pruebas temporales
+pruebas/
+test/
+
+# Ignorar archivos personales
+*.secret
