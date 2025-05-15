@@ -4,12 +4,12 @@
 
 while true; do
     clear
-    echo "=============================="
+    echo "=================================="
     echo "  TOOLKIT DE ADMINISTRACIÓN JR"
-    echo "=============================="
+    echo "=================================="
     echo "1. Monitoreo y gestión de procesos"
     echo "0. Salir"
-    echo "------------------------------"
+    echo "=================================="
     read -p "Selecciona una opción: " opcion
 
     case $opcion in
